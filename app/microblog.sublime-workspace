@@ -1,0 +1,643 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"maj",
+				"majorsInfo"
+			],
+			[
+				"school",
+				"school_id"
+			],
+			[
+				"majo",
+				"majorsArry"
+			],
+			[
+				"ma",
+				"majorsArry"
+			],
+			[
+				"samp",
+				"sample_response_schedule"
+			],
+			[
+				"trans",
+				"transform_navigate_data"
+			],
+			[
+				"Sec",
+				"Section_Name"
+			],
+			[
+				"dob",
+				"dob_arr"
+			],
+			[
+				"join",
+				"joins_clause"
+			],
+			[
+				"defa",
+				"defaultContent"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"name",
+				"name_header"
+			],
+			[
+				"ss",
+				"ssc_plus"
+			],
+			[
+				"table",
+				"dataTable"
+			],
+			[
+				"enroll",
+				"enrollment_status"
+			],
+			[
+				"watch",
+				"watchListId"
+			],
+			[
+				"wat",
+				"watchListId"
+			],
+			[
+				"the",
+				"theTerm"
+			],
+			[
+				"from",
+				"fromHomeView"
+			],
+			[
+				"comes",
+				"comes_from_home_view"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"categ",
+				"category_list"
+			],
+			[
+				"class",
+				"classifications"
+			],
+			[
+				"return",
+				"return_scope"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"link",
+				"link_selector"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"Fac",
+				"FactoryGirl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "__init__.py",
+			"settings":
+			{
+				"buffer_size": 71,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gperry/gradesfirst/app/models/beta.rb",
+		"/Users/gperry/gradesfirst/app/views/schools/_form.html.haml",
+		"/Users/gperry/gradesfirst/app/views/schools/edit.html.haml",
+		"/Users/gperry/gradesfirst/test/unit/gf/api/history/item/note_added_test.rb",
+		"/Users/gperry/gradesfirst/config/locales/en.yml",
+		"/Users/gperry/gradesfirst/lib/gf/api/history/item/base.rb",
+		"/Users/gperry/gradesfirst/lib/gf/api/history/templates/sql/note_added.sql",
+		"/Users/gperry/gradesfirst/test/support/history_feed_helper.rb",
+		"/Users/gperry/gradesfirst/app/views/allowances/_form.html.haml",
+		"/Users/gperry/gradesfirst/phoenix/karma.conf.js",
+		"/Users/gperry/gradesfirst/public/javascripts/gf/gf.js",
+		"/Users/gperry/gradesfirst/public/javascripts/gf/search.js",
+		"/Users/gperry/gradesfirst/app/views/students/show.html.erb",
+		"/Users/gperry/gradesfirst/app/views/campuses/index.html.erb",
+		"/Users/gperry/gradesfirst/phoenix/app/src/cross_campus_search/controllers/cross_campus_search.js",
+		"/Users/gperry/gradesfirst/app/controllers/campuses_controller.rb",
+		"/Users/gperry/gradesfirst/phoenix/app/mock/cross_campus_search_GET__200.json",
+		"/Users/gperry/gradesfirst/phoenix/test/spec/unit/cross_campus/controllers/cross_campus_search_controller.js",
+		"/Users/gperry/gradesfirst/phoenix/app/targets/mock/mock_data.js",
+		"/Users/gperry/gradesfirst/lib/gf/users/search_export.rb",
+		"/Users/gperry/gradesfirst/lib/gf/student_proxy.rb",
+		"/Users/gperry/gradesfirst/app/controllers/students_controller.rb",
+		"/Users/gperry/gradesfirst/app/models/major.rb",
+		"/Users/gperry/gradesfirst/lib/gf/services/search/index_users.rb",
+		"/Users/gperry/gradesfirst/phoenix/test/spec/unit/student_profile/controllers/history_feed_controller.js",
+		"/Users/gperry/gradesfirst/public/javascripts/gf/search_service_mock.js",
+		"/Users/gperry/gradesfirst/phoenix/app/mock/history_feed_GET__200.json",
+		"/Users/gperry/gradesfirst/features/step_definitions/shared_steps.rb",
+		"/Users/gperry/gradesfirst/features/step_definitions/web_steps.rb",
+		"/Users/gperry/gradesfirst/features/search_service_nav_milestone_filters.feature",
+		"/Users/gperry/gradesfirst/app/controllers/users_controller.rb",
+		"/Users/gperry/gradesfirst/app/views/students/_tabs.html.erb",
+		"/Users/gperry/gradesfirst/app/views/students/_preferences_student.html.erb",
+		"/Users/gperry/gradesfirst/phoenix/bower.json",
+		"/Users/gperry/gradesfirst/phoenix/package.json",
+		"/Users/gperry/gradesfirst/phoenix/app/require-vendor.js",
+		"/Users/gperry/gradesfirst/phoenix/app/src/core.js",
+		"/Users/gperry/gradesfirst/phoenix/.bowerrc",
+		"/Users/gperry/gradesfirst/config/ssc.yml",
+		"/Users/gperry/gradesfirst/phoenix/app/src/student_profile/controllers/history.js",
+		"/Users/gperry/gradesfirst/features/support/paths.rb",
+		"/Users/gperry/gradesfirst/features/student_profile/preferences_tab.feature",
+		"/Users/gperry/gradesfirst/app/models/user.rb",
+		"/Users/gperry/gradesfirst/public/javascripts/ng/controllers/student_profile.js",
+		"/Users/gperry/gradesfirst/public/javascripts/ng/services/student_profile.js",
+		"/Users/gperry/gradesfirst/public/javascripts/ng/controllers/student_path.js",
+		"/Users/gperry/gradesfirst/public/javascripts/ng/controllers/student_preferences.js",
+		"/Users/gperry/gradesfirst/app/views/students/_path_student.html.erb",
+		"/Users/gperry/gradesfirst/phoenix/README.MD",
+		"/Users/gperry/gradesfirst/app/views/users/_advanced_fields_nav_milestones.html.haml",
+		"/Users/gperry/gradesfirst/db/schema.rb",
+		"/Users/gperry/gradesfirst/app/views/users/_search_grid.html.haml",
+		"/Users/gperry/gradesfirst/app/views/layouts/_current_js.html.erb",
+		"/Users/gperry/gradesfirst/app/views/shared/_betas.html.haml",
+		"/Users/gperry/gradesfirst/app/views/students/_overview.html.erb",
+		"/Users/gperry/gradesfirst/public/javascripts/ng/controllers/student_overview.js",
+		"/Users/gperry/Evaluacion Trabajo Escrito.txt",
+		"/Users/gperry/evaluacionPresentacion.txt",
+		"/Users/gperry/gradesfirst/Gemfile3",
+		"/Users/gperry/gradesfirst/lib/gf/ror/2/config/routes.rb",
+		"/Users/gperry/gradesfirst/app/views/users/show.html.haml",
+		"/Users/gperry/gradesfirst/app/views/users/show/_profile_context_switcher.html.haml",
+		"/Users/gperry/gradesfirst/app/views/users/show/_javascript.html.haml",
+		"/Users/gperry/gradesfirst/app/views/users/_ssc_advanced_fields.html.haml",
+		"/Users/gperry/gradesfirst/app/views/users/_gf_advanced_fields.html.haml",
+		"/Users/gperry/gradesfirst/app/views/users/search_gradesfirst.html.haml",
+		"/Users/gperry/gradesfirst/app/helpers/application_helper.rb",
+		"/Users/gperry/gradesfirst/app/views/progress_reports/evaluation_campaigns/_form_choose_students.html.haml",
+		"/Users/gperry/gradesfirst/test/unit/import_version_five_test.rb",
+		"/Users/gperry/gradesfirst/test/support/import_version_helper.rb",
+		"/Users/gperry/gradesfirst/app/models/course.rb",
+		"/Users/gperry/gradesfirst/lib/tasks/populate_data.rake",
+		"/Users/gperry/gradesfirst/app/models/import.rb",
+		"/Users/gperry/gradesfirst/lib/gf/ror/2/config/environment.rb",
+		"/Users/gperry/gradesfirst/app/views/users/_reports_and_notes.html.erb",
+		"/Users/gperry/gradesfirst/lib/tasks/navigate_import_tasks.rake",
+		"/Users/gperry/gradesfirst/app/controllers/evaluations_controller.rb",
+		"/Users/gperry/gradesfirst/Vagrantfile",
+		"/Users/gperry/gradesfirst/lib/gf/evaluations/abstract_creator.rb",
+		"/Users/gperry/gradesfirst/lib/gf/evaluations/tutoring_creator.rb",
+		"/Users/gperry/gradesfirst/features/step_definitions/school_steps.rb",
+		"/Users/gperry/Documents/cucumber rails2",
+		"/Users/gperry/gradesfirst/features/advisor_edit_progress_report_campaign.feature",
+		"/Users/gperry/gradesfirst/features/step_definitions/user_steps.rb",
+		"/Users/gperry/gradesfirst/app/models/allowance.rb",
+		"/Users/gperry/gradesfirst/lib/gf/ror/3/config/application.rb",
+		"/Users/gperry/gradesfirst/app/helpers/users_helper.rb",
+		"/Users/gperry/gradesfirst/app/views/watch_lists/index.grid.haml",
+		"/Users/gperry/gradesfirst/app/controllers/schools_controller.rb",
+		"/Users/gperry/gradesfirst/app/models/watch_list.rb",
+		"/Users/gperry/gradesfirst/app/views/watch_lists/students_list_grid.html.haml",
+		"/Users/gperry/gradesfirst/app/controllers/api/enrollment_attendances_sql_controller.rb",
+		"/Users/gperry/gradesfirst/app/models/watch_list_user.rb",
+		"/Users/gperry/gradesfirst/lib/gf/resque/mixin/async.rb",
+		"/Users/gperry/gradesfirst/app/views/watch_lists/show.html.haml",
+		"/Users/gperry/gradesfirst/app/controllers/watch_lists_controller.rb",
+		"/Users/gperry/gradesfirst/db/migrate/20160209153142_add_navigate_row_to_betas.rb",
+		"/Users/gperry/gradesfirst/app/models/school.rb",
+		"/Users/gperry/gradesfirst/config/search_service.yml",
+		"/Users/gperry/gradesfirst/config/token_master.yml",
+		"/Users/gperry/gradesfirst/app/controllers/progress_reports/evaluation_campaigns_controller.rb",
+		"/Users/gperry/gradesfirst/lib/gf/ror/3/config/routes.rb",
+		"/Users/gperry/gradesfirst/config/token_master.yml.bckp",
+		"/Users/gperry/Documents/backup_search_grid.html.haml",
+		"/Users/gperry/gradesfirst/test/functional/advising_center/application_controller_test.rb",
+		"/Users/gperry/gradesfirst/db/migrate/20150112185016_add_ssc_plus_row_to_betas.rb",
+		"/Users/gperry/gradesfirst/app/controllers/personas_controller.rb",
+		"/Users/gperry/gradesfirst/features/support/env.rb",
+		"/Users/gperry/gradesfirst/app/views/homes/_students_table.html.haml",
+		"/Users/gperry/gradesfirst/app/helpers/appointment_campaigns_helper.rb",
+		"/Users/gperry/gradesfirst/app/views/appointment_campaigns/new.html.haml",
+		"/Users/gperry/gradesfirst/app/controllers/appointment_campaigns_controller.rb",
+		"/Users/gperry/gradesfirst/config/token_master.yml.tmp",
+		"/Users/gperry/gradesfirst/app/controllers/sessions_controller.rb",
+		"/Users/gperry/gradesfirst/config/initializers/pdfkit.rb",
+		"/Users/gperry/gradesfirst/public/javascripts/fullcalendar.js",
+		"/Users/gperry/gradesfirst/app/controllers/application_controller.rb",
+		"/Users/gperry/gradesfirst/features/support/search_token_stub.rb",
+		"/Users/gperry/gradesfirst/features/multi_page_select.feature",
+		"/Users/gperry/gradesfirst/features/support/helpers.rb",
+		"/Users/gperry/gradesfirst/app/views/layouts/application.html.haml",
+		"/Users/gperry/gradesfirst/app/views/announcements/_announcements_popup.html.haml",
+		"/Users/gperry/gradesfirst/features/support/select2_helper.rb",
+		"/Users/gperry/gradesfirst/app/views/advising_center/dashboards/_notifications.html.haml",
+		"/Users/gperry/gradesfirst/lib/gf/services/search/client.rb",
+		"/Users/gperry/gradesfirst/features/tutor_kiosk/student_signs_in_to_tutor_kiosk.feature",
+		"/Users/gperry/gradesfirst/features/tutor_kiosk/student_record_visit.feature",
+		"/Users/gperry/gradesfirst/Gemfile2"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/phoenix/test",
+			"/Users/gperry/gradesfirst/phoenix",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/phoenix",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/controllers",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/views",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/views/users",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/views",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/features/",
+			"/Users/gperry/gradesfirst/features/step_definitions",
+			"/Users/gperry/gradesfirst/features",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/features/",
+			"/Users/gperry/gradesfirst/features/step_definitions",
+			"/Users/gperry/gradesfirst/features",
+			"/Users/gperry/gradesfirst",
+			"/Users/gperry/search-service",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/db/migrate",
+			"/Users/gperry/gradesfirst",
+			"/Users/gperry/gradesfirst/features",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/features",
+			"/Users/gperry/gradesfirst/test",
+			"/Users/gperry/gradesfirst/features",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/test",
+			"/Users/gperry/gradesfirst/app/views",
+			"/Users/gperry/gradesfirst/test",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/views",
+			"/Users/gperry/gradesfirst",
+			"/Users/gperry/gradesfirst/app",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/views",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/controllers",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/views",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/views",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/views",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/views",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/",
+			"/Users/gperry/gradesfirst/app/views",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/features",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/features",
+			"/Users/gperry/gradesfirst/db",
+			"/Users/gperry/gradesfirst/app/models",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/test",
+			"/Users/gperry/gradesfirst/app/test",
+			"/Users/gperry/gradesfirst/app/controllers",
+			"/Users/gperry/gradesfirst/app/",
+			"/Users/gperry/gradesfirst/app/views",
+			"/Users/gperry/gradesfirst/",
+			"/Users/gperry/gradesfirst/app/",
+			"/Users/gperry/gradesfirst/app/views",
+			"/Users/gperry/gradesfirst/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"beta_fiel",
+			"Access to Student Information Permissions",
+			"betas",
+			"Enabling this feature will enable Student History Feed.",
+			"jasmine",
+			"sinon",
+			"jasmine",
+			"require",
+			"216",
+			"major",
+			"getSearchToken",
+			"test",
+			"gulp ",
+			"school_system",
+			"term",
+			"major",
+			"term_da",
+			"major",
+			"classifications",
+			"asignee_of",
+			"start-date",
+			"mock",
+			"history-feed--test",
+			"tudent profile page",
+			"build-",
+			"vendor",
+			"studentProfile",
+			".ssc_campus",
+			".sscCampus",
+			"<<<",
+			">>>>",
+			"<<<<",
+			"<<<",
+			"search_service_mock",
+			"@proxy",
+			"bootstrap",
+			"studentProfile",
+			"ng-controller",
+			"tabs_role",
+			"users",
+			"ENV[",
+			"cases",
+			"hashed_alternate_external_id",
+			"service_search",
+			"legacy_search",
+			"service_search",
+			"task",
+			">>>>",
+			"<<<<<",
+			"selection_boolean",
+			"<<<",
+			"total_credit_hours_attempted",
+			"attempted",
+			"school",
+			"err",
+			"radio_button_tag",
+			"button_tag",
+			"input_tag",
+			"type: :button",
+			"tag :",
+			"tag:",
+			"tag",
+			"tag: input",
+			"tag: input,",
+			"tag :",
+			"section_search_button",
+			"screenshot",
+			"I can",
+			"I am",
+			"section_search_button",
+			"find_button",
+			"section_search_button",
+			"search_ser",
+			"HTML screenshot:",
+			"HTML screenshot: ",
+			"betas",
+			"press ",
+			"I press",
+			"page.",
+			"page.driver.render",
+			"within",
+			"should see",
+			"I should see ",
+			"in the dataTable",
+			"screenshot",
+			"within ",
+			"dataTable",
+			"school",
+			",_",
+			"{\"",
+			",\"",
+			"GF-development_216",
+			"\":",
+			"\"_",
+			"<<",
+			"students_listing",
+			"size",
+			"students_listing",
+			"resqueue",
+			"watch_list_users_count",
+			"count",
+			"if RAILS",
+			".count",
+			"create_for_watchlist",
+			"watch_list_users_count",
+			"evaluation_campa",
+			"watch",
+			"students_listing",
+			"students_list",
+			"service-based",
+			"tokenmaster.",
+			"tokenmaster.eab.dev",
+			"school.navigate",
+			"legacy",
+			"search",
+			"full_search_service",
+			"show_advanced",
+			"currentRole",
+			"ssc",
+			"GF.Search.table.columns([4,5,6,7,8,9]).visible(",
+			"full_search_service?",
+			"travel_cam",
+			"lists_and_searches_explanation",
+			"betas",
+			"Allowance",
+			"capybara",
+			"window_size",
+			"Poltergeist"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",\n_",
+			"{",
+			",",
+			"GF-cuke1",
+			":",
+			"_",
+			".sscCampus",
+			"promptSavedSearch"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "__init__.py",
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"available_times",
+				"lib/gf/availabilities/available_times.rb"
+			],
+			[
+				"allowances/",
+				"app/views/allowances/_form.html.haml"
+			],
+			[
+				"phase2",
+				"app/views/allowances/_form_phase2.html.haml"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"search",
+				"config/search_service.yml.tmp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 402.0,
+	"status_bar_visible": true
+}
