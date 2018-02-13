@@ -4,3 +4,4 @@ __pycache__
 microblog.sublime-project
 microblog.sublime-workspace
 .DS_Store
+logs/*
